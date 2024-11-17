@@ -1,1 +1,8 @@
-empty
+[b]Minimum:[/b]
+[list][*][b]OS:[/b] Ubuntu 14.04LTS lub lepszy (wysoko zalecany najnowszy non-LTS) 
+    [*][b]Procesor:[/b] Dwurdzeniowy 2.8 GHz procesor lub lepszy
+    [*][b]Pamięć:[/b] 2 GB RAM 
+    [*][b]Grafika:[/b] Radeon HD 5000 Series albo nVidia GeForce 200 series lub lepszy
+    [*][b]Dysk Twardy:[/b] 10 GB wolnego miejsca na dysku twardym
+    [*][b]Inne Wymagania:[/b] Mysz, Klawiatura, połączenie za pomocą Internetu Szerokopasmowego z przynajmniej 5Mbps wys/pob
+[/list]
