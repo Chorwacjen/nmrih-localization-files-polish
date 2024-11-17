@@ -1,1 +1,14 @@
-empty
+"lang"
+{
+	"Language"	"polish"
+	"Tokens"
+	{
+		"#Status_JoiningServer"	"Dołączanie do serwera..."
+		"#Status_MainMenu"	"Menu Główne"
+		"#Status_PlayingObjective"	"Gra w Cel - %map%"
+		"#Status_PlayingSurvival"	"Gra w Przetrwanie - %map%"
+		"#Status_PlayingCustom"	"Gra w Niestandardowe - %map%"
+		"#Status_PlayingPvP"	"Gra w PvP - %map%"
+		"#Status_PlayingMinigame"	"Gra w Minigry - %map%"
+	}
+}
